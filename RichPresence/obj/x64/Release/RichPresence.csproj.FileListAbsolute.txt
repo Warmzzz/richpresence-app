@@ -1,0 +1,13 @@
+C:\Users\Raffaele\Desktop\C#\RichPresence\bin\x64\Release\RichPresence.exe.config
+C:\Users\Raffaele\Desktop\C#\RichPresence\bin\x64\Release\RichPresence.exe.manifest
+C:\Users\Raffaele\Desktop\C#\RichPresence\bin\x64\Release\RichPresence.application
+C:\Users\Raffaele\Desktop\C#\RichPresence\bin\x64\Release\RichPresence.exe
+C:\Users\Raffaele\Desktop\C#\RichPresence\bin\x64\Release\RichPresence.pdb
+C:\Users\Raffaele\Desktop\C#\RichPresence\obj\x64\Release\RichPresence.Form1.resources
+C:\Users\Raffaele\Desktop\C#\RichPresence\obj\x64\Release\RichPresence.Properties.Resources.resources
+C:\Users\Raffaele\Desktop\C#\RichPresence\obj\x64\Release\RichPresence.csproj.GenerateResource.cache
+C:\Users\Raffaele\Desktop\C#\RichPresence\obj\x64\Release\RichPresence.csproj.CoreCompileInputs.cache
+C:\Users\Raffaele\Desktop\C#\RichPresence\obj\x64\Release\RichPresence.exe.manifest
+C:\Users\Raffaele\Desktop\C#\RichPresence\obj\x64\Release\RichPresence.application
+C:\Users\Raffaele\Desktop\C#\RichPresence\obj\x64\Release\RichPresence.exe
+C:\Users\Raffaele\Desktop\C#\RichPresence\obj\x64\Release\RichPresence.pdb
